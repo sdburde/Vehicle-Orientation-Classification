@@ -1,0 +1,10 @@
+# Create and activate the conda environment
+conda create -n demo1 python=3.12.2 -y
+conda activate demo1
+
+# Install essential Python packages
+pip install ultralytics
+pip install tensorflow
+pip install paddlepaddle
+pip install paddleocr
+pip install scikit-learn

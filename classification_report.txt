@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+     1_front       0.81      0.91      0.86        65
+ 2_frontleft       0.92      0.88      0.90        68
+  3_rearleft       0.93      0.89      0.91        64
+      4_rear       0.83      0.95      0.88        40
+ 5_rearright       0.96      0.93      0.94        70
+6_frontright       0.92      0.86      0.89        64
+      7_full       0.88      0.84      0.86        99
+      8_part       0.67      0.71      0.69        51
+
+    accuracy                           0.87       521
+   macro avg       0.86      0.87      0.87       521
+weighted avg       0.87      0.87      0.87       521

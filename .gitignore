@@ -1,0 +1,40 @@
+# Ignore all output prediction folders
+output_predicted_classes/
+
+# Ignore test images and dataset splits
+test/
+training/split_dataset/
+
+# Ignore training runs and generated weights
+training/runs/
+training/split_dataset/train/
+training/split_dataset/val/
+yolo11_classifier_training_results/
+
+# Ignore model checkpoints and saved models
+vehicle_ori_classifier_128_saved_model/
+vehicle_ori_classifier_128_saved_model/assets/
+vehicle_ori_classifier_128_saved_model/variables/
+yolo11_classifier_training_results/weights/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+
+# Ignore logs and system files
+*.log
+*.swp
+*.swo
+.DS_Store
+
+# Ignore large files and temporary files
+*.csv
+*.json
+*.zip
+*.tar
+*.gz
