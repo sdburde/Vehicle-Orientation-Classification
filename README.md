@@ -3,8 +3,8 @@
 ## 🌟 Sample Outputs
 Below are some sample output images showcasing the classified vehicle orientations:
 
-![Output 1](sample_outputs/val_batch0_labels.jpg) [Output 2](sample_outputs/val_batch1_labels.jpg)
-![Output 3](sample_outputs/val_batch2_labels.jpg) [Output 4](sample_outputs/val_batch3_labels.jpg)
+![Output 1](sample_outputs/val_batch0_labels.jpg) ![Output 2](sample_outputs/val_batch1_labels.jpg)
+![Output 3](sample_outputs/val_batch2_labels.jpg) ![Output 4](sample_outputs/val_batch3_labels.jpg)
 
 
 ## 📌 Overview
