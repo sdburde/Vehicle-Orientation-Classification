@@ -3,26 +3,15 @@
 ## 🌟 Sample Outputs
 Below are some sample output images showcasing the classified vehicle orientations:
 
-<!-- <p>
-  <img src="sample_outputs/val_batch0_labels.jpg" width="45%" style="padding:5%;">
+<p>
+  <img src="sample_outputs/val_batch0_labels.jpg" width="45%"> &nbsp;&nbsp;
   <img src="sample_outputs/val_batch1_labels.jpg" width="45%">
 </p>
 
 <p>
-  <img src="sample_outputs/val_batch2_labels.jpg" width="45%">
-  <img src="sample_outputs/val_batch3_labels.jpg" width="45%>
-</p> -->
-
-<table>
-  <tr>
-    <td><img src="sample_outputs/val_batch0_labels.jpg" width="45%"></td>
-    <td><img src="sample_outputs/val_batch1_labels.jpg" width="45%"></td>
-  </tr>
-  <tr>
-    <td><img src="sample_outputs/val_batch2_labels.jpg" width="45%"></td>
-    <td><img src="sample_outputs/val_batch3_labels.jpg" width="45%"></td>
-  </tr>
-</table>
+  <img src="sample_outputs/val_batch2_labels.jpg" width="45%"> &nbsp;&nbsp;
+  <img src="sample_outputs/val_batch3_labels.jpg" width="45%">
+</p>
 
 
 
