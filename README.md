@@ -1,18 +1,10 @@
 # 🚗 Vehicle Orientation Classification
 
-# 🚗 Vehicle Orientation Classification
-
 ## 🌟 Sample Outputs
 Below are some sample output images showcasing the classified vehicle orientations:
 
-![Output 1](sample_outputs/val_batch0_labels.jpg)
-![Output 2](sample_outputs/val_batch1_labels.jpg)
-![Output 3](sample_outputs/val_batch2_labels.jpg)
-![Output 4](sample_outputs/val_batch3_labels.jpg)
-![Output 5](sample_outputs/val_batch4_labels.jpg)
-![Output 6](sample_outputs/val_batch5_labels.jpg)
-![Output 7](sample_outputs/val_batch6_labels.jpg)
-![Output 8](sample_outputs/val_batch7_labels.jpg)
+![Output 1](sample_outputs/val_batch0_labels.jpg) [Output 2](sample_outputs/val_batch1_labels.jpg)
+![Output 3](sample_outputs/val_batch2_labels.jpg) [Output 4](sample_outputs/val_batch3_labels.jpg)
 
 
 ## 📌 Overview
